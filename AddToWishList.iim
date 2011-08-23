@@ -1,0 +1,6 @@
+﻿VERSION BUILD=7300701 RECORDER=FX
+TAB T=1
+URL GOTO=http://magento.dz/articulating-videoscope-borescope-quasar.html
+TAG POS=1 TYPE=INPUT:CHECKBOX FORM=ACTION:http://magento.dz/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8uZHovYXJ0aWN1bGF0aW5nLXZpZGVvc2NvcGUtYm9yZXNjb3BlLXF1YXNhci5odG1s/product/403/ ATTR=ID:bundle-option-26-120 CONTENT=YES
+TAG POS=1 TYPE=INPUT:CHECKBOX FORM=ACTION:http://magento.dz/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8uZHovYXJ0aWN1bGF0aW5nLXZpZGVvc2NvcGUtYm9yZXNjb3BlLXF1YXNhci5odG1s/product/403/ ATTR=ID:bundle-option-13-70 CONTENT=YES
+TAG POS=1 TYPE=DIV ATTR=TXT:Add<SP>to<SP>Wishlist

@@ -1,0 +1,5 @@
+﻿VERSION BUILD=7300701 RECORDER=FX
+TAB T=1
+URL GOTO=http://magento.dz/pegasus-protable-video-borescope.html
+TAG POS=1 TYPE=IMG ATTR=WIDTH:341&&HEIGHT:136&&SRC:http://magento.dz/skin/frontend/default/fiberscope/images/logotype.png&&ALT:Magento<SP>Commerce&&TXT:
+URL GOTO=http://magento.dz/pegasus-protable-video-borescope.html

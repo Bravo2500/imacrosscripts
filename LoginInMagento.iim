@@ -1,0 +1,7 @@
+﻿VERSION BUILD=7300701 RECORDER=FX
+TAB T=1
+URL GOTO=http://magento.dz/customer/account/login/
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:http://magento.dz/customer/account/loginPost/ ATTR=ID:email CONTENT=pro100print@yahoo.com
+SET !ENCRYPTION NO
+TAG POS=1 TYPE=INPUT:PASSWORD FORM=ACTION:http://magento.dz/customer/account/loginPost/ ATTR=ID:pass CONTENT=2432127
+TAG POS=1 TYPE=BUTTON ATTR=ID:send2&&NAME:send&&TITLE:Login&&CLASS:button&&TYPE:submit&&TXT:Login

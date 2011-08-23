@@ -1,0 +1,11 @@
+﻿VERSION BUILD=7300701 RECORDER=FX
+TAB T=1
+TAB CLOSEALLOTHERS
+URL GOTO=http://magento.dz/customer/account/create/
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:http://magento.dz/customer/account/createpost/ ATTR=ID:firstname CONTENT=Vladimir
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:http://magento.dz/customer/account/createpost/ ATTR=ID:lastname CONTENT=Romanichev
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:http://magento.dz/customer/account/createpost/ ATTR=ID:email_address CONTENT=pro100print@yahoo.com
+SET !ENCRYPTION NO
+TAG POS=1 TYPE=INPUT:PASSWORD FORM=ACTION:http://magento.dz/customer/account/createpost/ ATTR=ID:password CONTENT=2432127
+TAG POS=1 TYPE=INPUT:PASSWORD FORM=ACTION:http://magento.dz/customer/account/createpost/ ATTR=ID:confirmation CONTENT=2432127
+TAG POS=1 TYPE=BUTTON ATTR=CLASS:button&&TITLE:Submit&&TYPE:submit&&TXT:Submit

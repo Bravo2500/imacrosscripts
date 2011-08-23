@@ -1,0 +1,8 @@
+﻿VERSION BUILD=7300701 RECORDER=FX
+TAB T=1
+TAG POS=1 TYPE=INPUT:CHECKBOX FORM=ACTION:http://magento.dz/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8uZHovYWRkaXRpb25hbC1yZXBsYWNlbWVudC1wcm9iZXMtZm9yLW9yaW9uLWFuZC1jZW50YXVyaS12aWRlb3Njb3Blcy0xLmh0bWw,/product/449/ ATTR=ID:bundle-option-19-94 CONTENT=YES
+TAG POS=1 TYPE=INPUT:CHECKBOX FORM=ACTION:http://magento.dz/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8uZHovYWRkaXRpb25hbC1yZXBsYWNlbWVudC1wcm9iZXMtZm9yLW9yaW9uLWFuZC1jZW50YXVyaS12aWRlb3Njb3Blcy0xLmh0bWw,/product/449/ ATTR=ID:bundle-option-20-95 CONTENT=YES
+TAG POS=1 TYPE=LI ATTR=TXT:x<SP>5.5mm(0.22")<SP>x<SP>1<SP>meter(3.3')<SP>$399.00<SP>HOT<SP>ITEM<SP>-<SP>Available<SP>for<SP>preorder<SP>$('bundle-option-21-99').advaiceContainer<SP>=<SP>'bundle-option-21-container';<SP>$('bundle-option-21-99').callbackFunction<SP>=<SP>'bundle.validationCallback';
+TAG POS=1 TYPE=INPUT:CHECKBOX FORM=ACTION:http://magento.dz/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8uZHovYWRkaXRpb25hbC1yZXBsYWNlbWVudC1wcm9iZXMtZm9yLW9yaW9uLWFuZC1jZW50YXVyaS12aWRlb3Njb3Blcy0xLmh0bWw,/product/449/ ATTR=ID:bundle-option-21-100 CONTENT=YES
+TAG POS=1 TYPE=INPUT:CHECKBOX FORM=ACTION:http://magento.dz/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8uZHovYWRkaXRpb25hbC1yZXBsYWNlbWVudC1wcm9iZXMtZm9yLW9yaW9uLWFuZC1jZW50YXVyaS12aWRlb3Njb3Blcy0xLmh0bWw,/product/449/ ATTR=ID:bundle-option-22-108 CONTENT=YES
+TAG POS=1 TYPE=DIV ATTR=TXT:Add<SP>to<SP>Cart
