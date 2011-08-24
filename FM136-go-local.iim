@@ -1,0 +1,4 @@
+﻿VERSION BUILD=7300701 RECORDER=FX
+TAB T=1
+URL GOTO=http://tracker.vetmanager.ru/issue/FM-136?query=for%3A+me
+TAG POS=1 TYPE=A ATTR=TXT:http://magento.dz/
