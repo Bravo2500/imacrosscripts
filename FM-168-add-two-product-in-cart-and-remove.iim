@@ -1,0 +1,19 @@
+﻿VERSION BUILD=7300701 RECORDER=FX
+TAB T=1
+URL GOTO=http://magento.dz/video-borescopes-video-scopes/portable-videoscopes-monitor-video-scope-orion-borescope-flexible/orion-video-borescope-6.html
+TAG POS=1 TYPE=INPUT:CHECKBOX FORM=ACTION:http://magento.dz/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8uZHovdmlkZW8tYm9yZXNjb3Blcy12aWRlby1zY29wZXMvcG9ydGFibGUtdmlkZW9zY29wZXMtbW9uaXRvci12aWRlby1zY29wZS1vcmlvbi1ib3Jlc2NvcGUtZmxleGlibGUvb3Jpb24tdmlkZW8tYm9yZXNjb3BlLTYuaHRtbA,,/product/394/ ATTR=ID:bundle-option-9-55 CONTENT=YES
+TAG POS=1 TYPE=INPUT:CHECKBOX FORM=ACTION:http://magento.dz/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8uZHovdmlkZW8tYm9yZXNjb3Blcy12aWRlby1zY29wZXMvcG9ydGFibGUtdmlkZW9zY29wZXMtbW9uaXRvci12aWRlby1zY29wZS1vcmlvbi1ib3Jlc2NvcGUtZmxleGlibGUvb3Jpb24tdmlkZW8tYm9yZXNjb3BlLTYuaHRtbA,,/product/394/ ATTR=ID:bundle-option-10-58 CONTENT=YES
+TAG POS=1 TYPE=INPUT:CHECKBOX FORM=ACTION:http://magento.dz/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8uZHovdmlkZW8tYm9yZXNjb3Blcy12aWRlby1zY29wZXMvcG9ydGFibGUtdmlkZW9zY29wZXMtbW9uaXRvci12aWRlby1zY29wZS1vcmlvbi1ib3Jlc2NvcGUtZmxleGlibGUvb3Jpb24tdmlkZW8tYm9yZXNjb3BlLTYuaHRtbA,,/product/394/ ATTR=ID:bundle-option-11-62 CONTENT=YES
+TAG POS=1 TYPE=INPUT:CHECKBOX FORM=ACTION:http://magento.dz/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8uZHovdmlkZW8tYm9yZXNjb3Blcy12aWRlby1zY29wZXMvcG9ydGFibGUtdmlkZW9zY29wZXMtbW9uaXRvci12aWRlby1zY29wZS1vcmlvbi1ib3Jlc2NvcGUtZmxleGlibGUvb3Jpb24tdmlkZW8tYm9yZXNjb3BlLTYuaHRtbA,,/product/394/ ATTR=ID:bundle-option-7-33 CONTENT=YES
+TAG POS=1 TYPE=SPAN ATTR=TXT:Add<SP>to<SP>Cart
+WAIT SECONDS=2
+TAG POS=2 TYPE=A ATTR=TXT:Standard<SP>Line<SP>Videoscopes
+TAG POS=5 TYPE=IMG ATTR=SRC:http://magento.dz/media/catalog/product/cache/1/small_image/195x135/9df78eab33525d08d6e5fb8d27136e95/images/catalog/product/placeholder/small_image.jpg
+TAG POS=1 TYPE=INPUT:CHECKBOX FORM=ACTION:http://magento.dz/checkout/cart/add/uenc/aHR0cDovL21hZ2VudG8uZHovdmlkZW8tYm9yZXNjb3Blcy12aWRlby1zY29wZXMvcG9ydGFibGUtdmlkZW9zY29wZXMtbW9uaXRvci12aWRlby1zY29wZS1vcmlvbi1ib3Jlc2NvcGUtZmxleGlibGUvcmlnZWwtMzYwLWRlZ3JlZS0yLXdheS1hcnRpY3VsYXRpbmctdmlkZW8tYm9yZXNjb3BlLmh0bWw,/product/559/ ATTR=ID:bundle-option-56-201 CONTENT=YES
+TAG POS=1 TYPE=DIV ATTR=TXT:Add<SP>to<SP>Cart
+WAIT SECONDS=2
+TAG POS=1 TYPE=A ATTR=TXT:My<SP>cart<SP>*
+WAIT SECONDS=1
+TAG POS=1 TYPE=A ATTR=TXT:Remove<SP>item
+WAIT SECONDS=20
+TAG POS=1 TYPE=A ATTR=TXT:Remove<SP>item
