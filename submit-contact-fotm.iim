@@ -1,0 +1,12 @@
+﻿VERSION BUILD=7300701 RECORDER=FX
+TAB T=1
+URL GOTO=http://magento.dz/contacts/
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:http://magento.dz/contacts/index/post/ ATTR=ID:Company CONTENT=Home
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:http://magento.dz/contacts/index/post/ ATTR=ID:First_Name CONTENT=Vladimir
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:http://magento.dz/contacts/index/post/ ATTR=ID:Last_Name CONTENT=Romanitchev
+TAG POS=1 TYPE=SELECT FORM=ACTION:http://magento.dz/contacts/index/post/ ATTR=ID:Industry CONTENT=$Other
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:http://magento.dz/contacts/index/post/ ATTR=ID:Email CONTENT=pro100print@yahoo.com
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:http://magento.dz/contacts/index/post/ ATTR=ID:Phone CONTENT=+380666966629
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:http://magento.dz/contacts/index/post/ ATTR=ID:Description CONTENT=test<SP>questions
+TAG POS=1 TYPE=TEXTAREA FORM=ACTION:http://magento.dz/contacts/index/post/ ATTR=ID:Use_Equipment CONTENT=test<SP>field
+TAG POS=1 TYPE=SPAN ATTR=TXT:SUBMIT<SP>NOW
