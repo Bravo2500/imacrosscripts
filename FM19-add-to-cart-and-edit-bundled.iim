@@ -6,14 +6,6 @@ TAG POS=1 TYPE=INPUT:CHECKBOX FORM=ACTION:http://magento.dz/checkout/cart/add/ue
 TAG POS=1 TYPE=INPUT:CHECKBOX FORM=ACTION:http://magento.dz/checkout/cart/add/uenc/*/product/447/ ATTR=ID:bundle-option-16-87 CONTENT=YES
 TAG POS=1 TYPE=INPUT:CHECKBOX FORM=ACTION:http://magento.dz/checkout/cart/add/uenc/*/product/447/ ATTR=ID:bundle-option-15-82 CONTENT=YES
 TAG POS=1 TYPE=INPUT:CHECKBOX FORM=ACTION:http://magento.dz/checkout/cart/add/uenc/*/product/447/ ATTR=ID:bundle-option-14-77 CONTENT=YES
-TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:http://magento.dz/checkout/cart/add/uenc/*/product/447/ ATTR=ID:qty CONTENT=2
 TAG POS=1 TYPE=SPAN ATTR=TXT:Add<SP>to<SP>Cart
 WAIT SECONDS=1
 TAG POS=1 TYPE=A ATTR=TXT:My<SP>cart<SP>(*)
-WAIT SECONDS=2
-TAG POS=1 TYPE=A ATTR=TXT:Edit
-TAG POS=1 TYPE=INPUT:CHECKBOX FORM=ACTION:* ATTR=ID:bundle-option-17-73 CONTENT=YES
-TAG POS=1 TYPE=INPUT:CHECKBOX FORM=ACTION:* ATTR=ID:bundle-option-16-85 CONTENT=YES
-TAG POS=1 TYPE=BUTTON ATTR=TXT:Update<SP>Cart
-WAIT SECONDS=20
-TAG POS=1 TYPE=A ATTR=TXT:Remove<SP>item
